@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: Projects
+title:  "My Projects Page"
 date:   2025-02-28 13:59:28 -0800
 categories: jekyll update
 ---
