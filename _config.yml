@@ -21,9 +21,10 @@
 title: Kai Barker
 email: kaiandreasbarker@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A curious self-starter always looking for opportunities to blend my love of problem-solving, computer science, and collaboration. When I'm not working on a personal project, you can find me playing basketball, pickleball, or climbing! 
+  I'm actively looking for internships in data analytics, software engineering, or consulting. 
+  
+  Let’s connect—check out my project portfolio!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linked-in_username: kaiabarker
