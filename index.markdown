@@ -3,5 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-[Connect with me on LinkedIn](https://www.linkedin.com/in/your-profile/)
 ---
+[Connect with me on LinkedIn](https://www.linkedin.com/in/your-profile/)
+
