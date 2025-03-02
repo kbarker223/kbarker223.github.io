@@ -22,6 +22,9 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
+My latest project is for the Kaggle 2025 March Madness competition. Particiapnts compete to predict the winners of all march madness games this 2025 season. 
+You can view my project on [GitHub](https://github.com/kbarker223/2025-March-Madness)
+
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
