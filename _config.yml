@@ -31,7 +31,7 @@ linkedin_username: kaiabarker
 github_username:  kbarker223
 
 # Build settings
-theme: minima
+theme: jekyll-theme-forty
 plugins:
   - jekyll-feed
 
