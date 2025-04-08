@@ -6,7 +6,8 @@
 - Statistics and Data Science, B.S. | University of California, Santa Barbara (_September 2022-Present_)
 
 ## More about Me:
-[Resume](/assets/img/Jan25ResumePDF.pdf)
+- Check out my resume for more details: [Resume](/assets/img/Jan25ResumePDF.pdf)
+- Connect with me on LinkedIn! [My LinkedIn](www.linkedin.com/in/kaiabarker)
 
 ## Projects
 ### 
