@@ -3,10 +3,10 @@
 #### Technical Skills: Python, SQL, Excel, R
 
 ## Education
-- B.S., Statistics and Data Science | University of California, Santa Barbara (_September 2022-Present_)
+- Statistics and Data Science, B.S. | University of California, Santa Barbara (_September 2022-Present_)
 
 ## More about Me:
-[Resume]()
+[Resume](/assets/img/Jan25ResumePDF.pdf)
 
 ## Projects
 ### 
