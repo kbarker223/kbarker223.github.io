@@ -15,4 +15,6 @@
 
 
 ## Certifications
+- JPMorgan Chase & Co. - Quantitative Research [Link](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/bWqaecPDbYAwSDqJy_Sj7temL583QAYpHXD_6RRBf64d8NkhWbd9x_1744139435558_completion_certificate.pdf)
+  
 
