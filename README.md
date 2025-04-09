@@ -7,7 +7,7 @@
 
 ## More about Me:
 - Check out my [resume](/assets/img/Jan25ResumePDF.pdf) for more details
-- Connect with me on my [LinkedIn](www.linkedin.com/in/kaiabarker)! 
+- Connect with me on [LinkedIn](www.linkedin.com/in/kaiabarker)! 
 
 ## Projects
 [github]()
