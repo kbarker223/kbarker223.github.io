@@ -10,9 +10,7 @@
 - Connect with me on LinkedIn! [My LinkedIn](www.linkedin.com/in/kaiabarker)
 
 ## Projects
-### 
 [github]()
-
 
 
 ## Certifications
