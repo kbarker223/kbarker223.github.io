@@ -1,4 +1,4 @@
-# Kai Barker
+# Data Science Portfolio
 
 #### Technical Skills: Python, SQL, Excel, R
 
